@@ -1,0 +1,35 @@
+:root {
+
+/* Colors: */
+--unnamed-color-858585: #858585;
+--unnamed-color-007eb4: #007EB4;
+
+/* Font/text values */
+--unnamed-font-family-inter: Inter;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-300: 300px;
+--unnamed-font-size-18: 18px;
+--unnamed-character-spacing-0: 0px;
+--unnamed-line-spacing-29: 29px;
+--unnamed-line-spacing-30: 30px;
+}
+
+/* Character Styles */
+.unnamed-character-style-1 {
+font-family: var(--unnamed-font-family-inter);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-18);
+line-height: var(--unnamed-line-spacing-30);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-007eb4);
+}
+.unnamed-character-style-2 {
+font-family: var(--unnamed-font-family-inter);
+font-style: var(--unnamed-font-style-normal);
+font-weight: var(--unnamed-font-weight-300);
+font-size: var(--unnamed-font-size-18);
+line-height: var(--unnamed-line-spacing-29);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--unnamed-color-858585);
+}
